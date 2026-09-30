@@ -6,27 +6,11 @@
 
 <br/>
 
-## whoami
-
-I'm a product designer who doesn't hand off at the mockup — I build the frontend too, so the thing that ships is the thing that was designed.
-
-Most of what I do lives in the hard middle: design systems, pricing logic, the vendor tools nobody sees but the whole marketplace runs on.
-
-> I'd rather build a system that runs on its own than a screen that needs someone watching it.
+<div align="center">
+  <img src="https://raw.githubusercontent.com/dhawalUX/dhawalUX/main/about.png" alt="whoami — I'm a product designer who doesn't hand off at the mockup. I build the frontend too. 67% faster vendor listing, 25% fewer support tickets, 40% faster parking search, 5 products shipped 0 to 1. Currently product designer at StyleMatch." width="100%" />
+</div>
 
 <br/>
-
-|  |  |  |  |
-| :---: | :---: | :---: | :---: |
-| **67%**<br><sub>faster vendor listing</sub> | **25%**<br><sub>fewer support tickets</sub> | **40%**<br><sub>faster parking search</sub> | **5**<br><sub>products shipped 0→1</sub> |
-
-<br/>
-
-## what i'm building
-
-I'm the product designer at **StyleMatch**, a marketplace helping Indian clothing vendors price and sell into a US market they've never seen. I own the vendor experience end to end — the research, the design system, and the core flows I ship myself in React — and cut listing time by **67%**.
-
-I do my sharpest work in 0→1 rooms where the right pattern hasn't been found yet, and the real answer turns out to be a system, not a screen.
 
 ## selected work
 
