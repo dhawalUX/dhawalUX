@@ -7,7 +7,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/dhawalUX/dhawalUX/main/about.png" alt="whoami — I'm a product designer who doesn't hand off at the mockup. I build the frontend too. 67% faster vendor listing, 25% fewer support tickets, 40% faster parking search, 5 products shipped 0 to 1. Currently product designer at StyleMatch." width="100%" />
+  <img src="https://raw.githubusercontent.com/dhawalUX/dhawalUX/main/about.png" alt="whoami — I'm a product designer who doesn't hand off at the mockup, I build the frontend too, 67% faster vendor listing, 25% fewer support tickets, 40% faster parking search, 5 products shipped 0 to 1. Currently product designer at StyleMatch." width="100%" />
 </div>
 
 <br/>
