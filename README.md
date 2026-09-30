@@ -6,7 +6,7 @@
 
 <br/>
 
-### about me
+### $\color{#A78BFA}{\textsf{about me}}$
 
 I'm a product designer who doesn't hand off at the mockup. I build the frontend too, so the thing that ships is the thing that was designed.
 
@@ -16,19 +16,19 @@ Most of what I do lives in the hard middle: design systems, pricing logic, the v
 
 <br/>
 
-<div align="center">
-<strong>67%</strong> faster vendor listing &nbsp; · &nbsp; <strong>25%</strong> fewer support tickets &nbsp; · &nbsp; <strong>40%</strong> faster parking search &nbsp; · &nbsp; <strong>5</strong> products shipped 0→1
-</div>
+|  |  |  |  |
+| :---: | :---: | :---: | :---: |
+| **67%**<br><sub>faster vendor listing</sub> | **25%**<br><sub>fewer support tickets</sub> | **40%**<br><sub>faster parking search</sub> | **5**<br><sub>products shipped 0→1</sub> |
 
 <br/>
 
-### what i'm building
+### $\color{#A78BFA}{\textsf{what i'm building}}$
 
 I'm the product designer at **StyleMatch**, a marketplace helping Indian clothing vendors price and sell into a US market they've never seen. I own the vendor experience end to end: the research, the design system, and the core flows I ship myself in React, and I cut listing time by **67%**.
 
 I do my sharpest work in 0→1 rooms where the right pattern hasn't been found yet, and the real answer turns out to be a system, not a screen.
 
-### selected work
+### $\color{#A78BFA}{\textsf{selected work}}$
 
 | project | what it was | the outcome |
 | :--- | :--- | :--- |
@@ -40,17 +40,13 @@ I do my sharpest work in 0→1 rooms where the right pattern hasn't been found y
 
 Full case studies at **[dhawalwaykole.com](https://dhawalwaykole.com)**.
 
-### the toolbox
+### $\color{#A78BFA}{\textsf{the toolbox}}$
 
 **Design & prototyping** &nbsp;·&nbsp; Figma · Framer · Prototyping · Design systems
 
 **Development** &nbsp;·&nbsp; React · Next.js · TypeScript · JavaScript · HTML/CSS · Git
 
 **Research & craft** &nbsp;·&nbsp; UX research · Moderated sessions · Mixed methods · Information architecture · Interaction design · Accessibility · Usability & A/B testing
-
-### a few wins
-
-`GlucoGuard · Funded & Awarded`  `StyleMatch · Listing +67%`  `Nooon · Support −25%`  `Parking Spot · Search −40%`
 
 <br/>
 
