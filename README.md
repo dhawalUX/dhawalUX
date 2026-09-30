@@ -1,7 +1,7 @@
 <!-- Profile README for github.com/dhawalUX  (repo: dhawalUX/dhawalUX) -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/dhawalUX/dhawalUX/main/banner.png" alt="Dhawal Waykole — Product Designer & Engineer" width="100%" />
+  <img src="https://raw.githubusercontent.com/dhawalUX/dhawalUX/main/banner.png?v=2" alt="Dhawal Waykole — Product Designer & Engineer" width="100%" />
 </div>
 
 <br/>
