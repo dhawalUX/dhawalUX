@@ -6,7 +6,7 @@
 
 <br/>
 
-### $\color{#A78BFA}{\textsf{about me}}$
+### about me
 
 I'm a product designer who doesn't hand off at the mockup. I build the frontend too, so the thing that ships is the thing that was designed.
 
@@ -22,13 +22,13 @@ Most of what I do lives in the hard middle: design systems, pricing logic, the v
 
 <br/>
 
-### $\color{#A78BFA}{\textsf{what i'm building}}$
+### what i'm building
 
 I'm the product designer at **StyleMatch**, a marketplace helping Indian clothing vendors price and sell into a US market they've never seen. I own the vendor experience end to end: the research, the design system, and the core flows I ship myself in React, and I cut listing time by **67%**.
 
 I do my sharpest work in 0→1 rooms where the right pattern hasn't been found yet, and the real answer turns out to be a system, not a screen.
 
-### $\color{#A78BFA}{\textsf{selected work}}$
+### selected work
 
 | project | what it was | the outcome |
 | :--- | :--- | :--- |
@@ -40,7 +40,7 @@ I do my sharpest work in 0→1 rooms where the right pattern hasn't been found y
 
 Full case studies at **[dhawalwaykole.com](https://dhawalwaykole.com)**.
 
-### $\color{#A78BFA}{\textsf{the toolbox}}$
+### the toolbox
 
 **Design & prototyping** &nbsp;·&nbsp; Figma · Framer · Prototyping · Design systems
 
