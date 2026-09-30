@@ -1,15 +1,7 @@
 <!-- Profile README for github.com/dhawalUX  (repo: dhawalUX/dhawalUX) -->
 
 <div align="center">
-  <a href="https://dhawalwaykole.com">
-    <img src="https://raw.githubusercontent.com/dhawalUX/dhawalUX/main/banner.png" alt="Dhawal Waykole — Product Designer & Engineer" width="100%" />
-  </a>
-
-  <p></p>
-
-  <a href="https://dhawalwaykole.com"><img src="https://img.shields.io/badge/Portfolio-D6A63F?style=for-the-badge&logo=safari&logoColor=12141C" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/dhawal-waykole-700b15212/"><img src="https://img.shields.io/badge/LinkedIn-1E2434?style=for-the-badge&logo=linkedin&logoColor=D6A63F" alt="LinkedIn" /></a>
-  <a href="mailto:dhawalwaykole8920@gmail.com"><img src="https://img.shields.io/badge/Email-1E2434?style=for-the-badge&logo=gmail&logoColor=E0655A" alt="Email" /></a>
+  <img src="https://raw.githubusercontent.com/dhawalUX/dhawalUX/main/banner.png" alt="Dhawal Waykole — Product Designer & Engineer" width="100%" />
 </div>
 
 <br/>
