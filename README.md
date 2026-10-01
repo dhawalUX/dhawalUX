@@ -9,6 +9,8 @@
 
 ### about me
 
+---
+
 I'm a product designer who doesn't hand off at the mockup. I build the frontend too, so the thing that ships is the thing that was designed.
 
 Most of what I do lives in the hard middle: design systems, pricing logic, the vendor tools nobody sees but the whole marketplace runs on.
@@ -17,19 +19,27 @@ Most of what I do lives in the hard middle: design systems, pricing logic, the v
 
 <br/>
 
-|  |  |  |  |
-| :---: | :---: | :---: | :---: |
-| **5**<br><sub>products shipped 0→1</sub> | **4**<br><sub>domains shipped across</sub> | **2**<br><sub>disciplines — design + code</sub> | **3+**<br><sub>years designing products</sub> |
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhawalUX/dhawalUX/main/stats-dark.png?v=1" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhawalUX/dhawalUX/main/stats-light.png?v=1" />
+    <img src="https://raw.githubusercontent.com/dhawalUX/dhawalUX/main/stats-light.png?v=1" alt="5 products shipped 0→1 · 4 domains shipped across · 2 disciplines — design + code · 3+ years designing products" width="100%" />
+  </picture>
+</div>
 
 <br/>
 
 ### what i'm building
+
+---
 
 I'm the product designer at **StyleMatch**, a marketplace helping Indian clothing vendors price and sell into a US market they've never seen. I own the vendor experience end to end: the research, the design system, and the core flows I ship myself in React, and I cut listing time by **67%**.
 
 I do my sharpest work in 0→1 rooms where the right pattern hasn't been found yet, and the real answer turns out to be a system, not a screen.
 
 ### selected work
+
+---
 
 | project | what it was | the outcome |
 | :--- | :--- | :--- |
@@ -42,6 +52,8 @@ I do my sharpest work in 0→1 rooms where the right pattern hasn't been found y
 Full case studies at **[dhawalwaykole.com](https://dhawalwaykole.com)**.
 
 ### the toolbox
+
+---
 
 **Design & prototyping** &nbsp;·&nbsp; Figma · Framer · Prototyping · Design systems
 
