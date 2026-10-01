@@ -19,7 +19,7 @@ Most of what I do lives in the hard middle: design systems, pricing logic, the v
 
 |  |  |  |  |
 | :---: | :---: | :---: | :---: |
-| **67%**<br><sub>faster vendor listing</sub> | **25%**<br><sub>fewer support tickets</sub> | **40%**<br><sub>faster parking search</sub> | **5**<br><sub>products shipped 0→1</sub> |
+| **5**<br><sub>products shipped 0→1</sub> | **4**<br><sub>domains shipped across</sub> | **2**<br><sub>disciplines — design + code</sub> | **3+**<br><sub>years designing products</sub> |
 
 <br/>
 
